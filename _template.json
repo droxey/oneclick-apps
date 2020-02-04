@@ -1,0 +1,21 @@
+{
+    "captainVersion": "2",
+    "documentation": "",
+    "description": "",
+    "displayName": "",
+    "dockerCompose": {
+        "version": "3.3",
+        "services": {}
+    },
+    "instructions": {
+        "start": "",
+        "end": ""
+    },
+    "variables": [{
+        "id": "$$variable_name",
+        "label": "",
+        "description": "",
+        "defaultValue": "Any # or letter.",
+        "validRegex": "/^([a-zA-Z0-9-.\\s])*$/"
+    }]
+}
